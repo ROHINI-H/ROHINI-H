@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohini!
 
-<!--
-**ROHINI-H/ROHINI-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 From Support to Full Stack
 
-Here are some ideas to get you started:
+I'm a **Technical Support Engineer** transitioning into a **Full Stack Developer** — passionate about building seamless web experiences and solving real-world problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently diving deeper into: **Full Stack Development**
+- 🌱  I’m currently learning **React**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python, SQL**
+- 📫 Reach me at [Linkedin](www.linkedin.com/in/rohini-h)
+
+## 🛠️ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,tailwind,js,python,mysql,postman,c,vscode)
+
+## 📈 GitHub Stats
+
+![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHINI-H&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHINI-H&layout=compact)
+
+> 💡 *“Support helped me understand problems. Development helps me solve them.”*

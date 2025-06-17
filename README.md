@@ -5,7 +5,8 @@
 I'm a **Technical Support Engineer** transitioning into a **Full Stack Developer** — passionate about building seamless web experiences and solving real-world problems with code.
 
 - 🔭 I’m currently diving deeper into: **Full Stack Development**
-- 🌱  I’m currently learning **React**
+- 💻 I'm currently working on **JS Projects**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about: **HTML, CSS, JavaScript, Python, SQL**
 - 📫 Reach me at [Linkedin](www.linkedin.com/in/rohini-h)
 
